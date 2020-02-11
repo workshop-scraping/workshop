@@ -20,7 +20,7 @@ Définition :
 > Le scraping peut également être utilisé comme un outil de surveillance des concurrents (on récupère automatiquement les tarifs pratiqués par un site de commerce en ligne concurrent et l'on détecte leurs variations) ou comme outil de veille concurrentielle.
 
 
-Dans les exercices suivants nous vous demanderont de toucher à plusieurs langages qui vous seront utiles afin de réaliser une boucle de scraping, soit extraire de l'html à partir de python.
+Dans les exercices suivants nous vous demanderons de toucher à plusieurs langages qui vous seront utiles afin de réaliser une boucle de scraping, c'est-à-dire extraire de l'html à partir de python.
 
 ## Exercice 00 : Les prérequis
 
