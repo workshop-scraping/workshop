@@ -107,7 +107,7 @@ Vous allez `parser en boucle` le document xml obtenu. Grâce aux chemins Xpath v
 
 Enfin il vous faudra `stocker ces informations` dans un dictionnaire.
 
-Il se peut que les informations obtenues via les chemins Xpaths soient mếlées avec d'autres informations parasyte. Pour ne garder que l'essentiel vous pouvez `filtrer` cela grâce aux regex.
+Il se peut que les informations obtenues via les chemins Xpaths soient mếlées avec d'autres informations parasite. Pour ne garder que l'essentiel vous pouvez `filtrer` cela grâce aux regex.
 
 Recommencez avec le site [nike](https://www.nike.com/fr/w/hommes-chaussures-nik1zy7ok) maintenant. 
 
