@@ -127,4 +127,4 @@ Le but étant de croiser l'information pour ne pas rater d'items. Encore une foi
 
 ## Exercice 09 : Selenium V
 
-Une fois le programme fonctionnel, répétez l'opération avec un site similaire comme [Millesima](https://www.millesima.fr/) et perfectionnez le programme pour le rendre `adaptable` à n'importe quel site e-commerce.
+Une fois le programme fonctionnel, répétez l'opération avec un site similaire comme [Millesima](https://www.millesima.fr/) et perfectionnez le programme pour le rendre `adaptable` à n'importe quel site e-commerce. Gérez tous les obstacles au scraping tel que les pop-up qui vous demandent votre âge ou votre géolocalisation dans le cas des e-commerce de spiritueux afin d'éviter un time out de votre webdriver. Bonne chance!
