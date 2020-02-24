@@ -36,6 +36,8 @@ pip3 install selenium
 
 pip3 install urllib
 ```
+Des connaissances en [python](https://openclassrooms.com/fr/courses/235344-apprenez-a-programmer-en-python/230722-faites-vos-premiers-pas-avec-linterpreteur-de-commandes-python)
+
 ## Exercice 01 : Les xpath 
 
 Cette exercice consite en l'obtention du chemin vers une partie d'un document xml.
