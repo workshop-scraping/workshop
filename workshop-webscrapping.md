@@ -26,9 +26,9 @@ Dans les exercices suivants nous vous demanderons de toucher à plusieurs langag
 
 Les modules à installer:
 ```
-sudo apt-instal python3.7
+sudo apt-install python3.7
 
-pip3 install lxml
+sudo apt-get install python3-lxml
 
 pip3 install regex
 
